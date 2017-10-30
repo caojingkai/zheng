@@ -35,7 +35,7 @@ public class LogAspect {
 	private static Logger _log = LoggerFactory.getLogger(LogAspect.class);
 
 	// 开始时间
-	private long startTime = 0L;
+	private long startTime = 0L; //bi
 	// 结束时间
 	private long endTime = 0L;
 
